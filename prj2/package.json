@@ -1,0 +1,8 @@
+{
+  "name": "prj2",
+  "version": "0.0.1",
+  "dependencies": {
+    "prj3": "0.0.1",
+    "underscore": "^1.5.2"
+  }
+}

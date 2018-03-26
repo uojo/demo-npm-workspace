@@ -1,0 +1,11 @@
+{
+  "name": "prj1",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "prj2": "0.0.1",
+    "request": "^2.85.0",
+    "underscore": "^1.8.3"
+  }
+}

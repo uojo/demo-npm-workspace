@@ -1,0 +1,8 @@
+{
+  "name": "prj3",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "optimist": "^0.6.1"
+  }
+}
